@@ -41,7 +41,7 @@ local M = {}
 ---@field separator option.separator
 ---@field modules option.modules
 M.options = {
-  position = "bottom",
+  position = "top",
   max_width = 32,
   padding = {
     left = 1,
